@@ -2,7 +2,7 @@
 
 下载并安装drupal 10,在drupal根目录创建目录custom,然后下载drupal-function代码并解压至custom目录。
 
-访问 `/custom/api/v1/index.php`
+访问 `/custom/apiv1/index.php`
 
 需要理解drupal的核心content type及term的使用
 
